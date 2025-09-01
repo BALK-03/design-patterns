@@ -1,7 +1,5 @@
-import os, sys
 from abc import ABC, abstractmethod
 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 from abstract_factory.python.fourniture import *
 
 class FournitureFactory(ABC):

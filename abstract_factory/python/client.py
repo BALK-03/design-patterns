@@ -1,6 +1,3 @@
-import os, sys
-
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 from abstract_factory.python.factory import ModernFournitureFactory, VectorianFournitureFactory
 from abstract_factory.python.fourniture import Chair, Sofa
 
