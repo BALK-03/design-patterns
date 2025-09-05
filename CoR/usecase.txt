@@ -1,0 +1,1 @@
+Imagine a system where purchase requests need to be approved by managers based on the amount. A manager can approve small purchases, but a director might be required for medium-sized ones, and the CEO for very large ones. 
