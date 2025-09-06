@@ -1,0 +1,1 @@
+You want to build a simple calculator that can perform operations like addition and subtraction, and most importantly, supports an undo feature.
